@@ -6,9 +6,9 @@ Simple program to convert numbers from a base (i.e. decimal) to another one (i.e
 
 1. [Download it]()
 1. Run it
-  1. Insert the number
-  1. Select the bases
-  1. Click the "Converti" button 
+ 1. Insert the number you want to convert
+ 1. Select the bases 
+ 1. Click the "Converti" button 
 
 ## Requirements
 
